@@ -1,0 +1,51 @@
+Basic Level
+
+    Reverse a string without using any built-in functions.
+    Check if a number is prime.
+    Find the largest element in an array.
+    Find the second largest element in an array.
+    Check if a string is a palindrome.
+    Count the number of vowels in a string.
+    Count the number of occurrences of a character in a string.
+    Find the factorial of a number using recursion.
+    Swap two numbers without using a temporary variable.
+    Sum of all digits in a number.
+    Find the Fibonacci series up to n numbers.
+    Print a pyramid pattern using stars (*).
+    Find the sum of the elements in an array.
+    Find the product of all elements in an array.
+    Find the common elements between two arrays.
+
+Intermediate Level
+
+    Reverse a linked list.
+    Detect a cycle in a linked list.
+    Merge two sorted arrays into one sorted array.
+    Find the missing number in a given array of 1 to n.
+    Find the intersection of two arrays.
+    Find the union of two arrays.
+    Remove duplicates from an array.
+    Find the longest substring without repeating characters.
+    Check if two strings are anagrams.
+    Find the first non-repeated character in a string.
+    Write a function to check if a string contains balanced parentheses.
+    Find all pairs in an array that sum to a specific target.
+    Implement a queue using two stacks.
+    Find the "Kth" largest element in an array.
+    Find the longest common prefix in an array of strings.
+    Write a program to rotate an array by k positions.
+    Find the power of a number (x^y) using recursion.
+    Find the GCD (Greatest Common Divisor) of two numbers.
+    Find the LCM (Least Common Multiple) of two numbers.
+    Write a program to convert a string to an integer.
+
+Advanced Level
+
+    String Compression:Implement a basic string compression algorithm using the counts of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3". If the compressed string is not shorter than the original string, return the original string.
+    Example: "aabcccccaaa" → "a2b1c5a3".
+
+    Reverse Words in a String.
+
+    Find all permutations of a string.
+
+    Solve the Sudoku solver problem (backtracking).
